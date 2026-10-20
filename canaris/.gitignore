@@ -1,0 +1,7 @@
+# Dossiers générés par Godot
+.godot/
+/android/
+*.aab
+*.apk
+*.keystore
+export_credentials.cfg
